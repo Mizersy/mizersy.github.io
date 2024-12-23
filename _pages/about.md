@@ -46,9 +46,9 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 
 # 📝 Publications 
 
--	**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation. (preprint)** [[Paper]](https://arxiv.org/abs/2412.14905)
+-	**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation. (preprint)** [[Paper]](https://arxiv.org/abs/2412.14905)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
-- **An Empirical Study on LLM-based Agents for Automated Bug Fixing. (preprint)** [[Paper]](https://arxiv.org/abs/2411.10213)
+- **An Empirical Study on LLM-based Agents for Automated Bug Fixing. (preprint)** [[Paper]](https://arxiv.org/abs/2411.10213)  
   Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
 -	**Make Your LLM Fully Utilize the Context. (NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
