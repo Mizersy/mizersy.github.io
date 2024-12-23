@@ -23,7 +23,7 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 
 
 <!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
@@ -42,18 +42,14 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
 
 
 # 📝 Publications 
 
-- **An Empirical Study on LLM-based Agents for Automated Bug Fixing. (preprint)** [[Paper]](https://arxiv.org/abs/2411.10213)
-  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
 -	**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation. (preprint)** [[Paper]](https://arxiv.org/abs/2412.14905)
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
+- **An Empirical Study on LLM-based Agents for Automated Bug Fixing. (preprint)** [[Paper]](https://arxiv.org/abs/2411.10213)
+  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
 -	**Make Your LLM Fully Utilize the Context. (NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 - **Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks. (EMNLP 2024)** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)  
@@ -66,6 +62,10 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 # 📖 Educations
 - *2021.09 - now*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
 - *2017.09 - 2021.06*, Tianjin University, Bachelor’s Degree in Computer Science.
+
+# 🎖 Honors and Awards
+- *2018*, ACM/ICPC (International Collegiate Programming Contest), Silver Model. 
+- *2019*, Loongson Cup (National Student Computer System Design Capability Challenge), Second Prize.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
