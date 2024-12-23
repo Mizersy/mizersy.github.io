@@ -65,8 +65,9 @@ His research interest is the application of large language models in coding and 
 
 # 🎖 Honors and Awards
 - *2019*, National Scholarship.
-- *2019*, Loongson Cup (National Student Computer System Design Capability Challenge), Second Prize.
-- *2018*, ACM/ICPC (International Collegiate Programming Contest), Silver Model. 
+- *2019*, National Student Computer System Design Capability Challenge (**Loongson Cup**), Second Prize.
+- *2018*, International Collegiate Programming Contest (**ACM/ICPC**), Silver Model. 
+- *2015*, National Olympiad in Informatics in Provinces (**NOIP**), First Prize.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
