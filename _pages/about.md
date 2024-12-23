@@ -57,6 +57,7 @@ His research interest is the application of large language models in coding and 
 -	**[NeurIPS 2024] Make Your LLM Fully Utilize the Context.** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 - **[EMNLP 2024] Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks.** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)  
+  *Preprint Version:* **Learning From Mistakes Makes LLM Better Reasoner** [[Paper]](https://arxiv.org/abs/2310.20689)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Siqi Cai, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 -	**[ICPC 2024] Compositional API Recommendation for Library-Oriented Code Generation.** [[Paper]](https://arxiv.org/abs/2402.19431)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin. 
