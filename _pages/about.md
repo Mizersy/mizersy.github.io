@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate in Peking University. My research interest is the application of large language models in reasoning and coding tasks.
+Zexiong Ma is a fourth-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). He received B.S degree from Tianjin University.
+
+His research interest is the application of large language models in coding and reasoning tasks, including (1) coding: library-oriented code generation, retrievel-augmented code generation, and automated bug fix; (2) reasoning: mathematical reasoning and long-context reasoning.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,17 +48,15 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 
 # 📝 Publications 
 
--	**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation. (preprint)** [[Paper]](https://arxiv.org/abs/2412.14905)  
+-	**[preprint] Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation.** [[Paper]](https://arxiv.org/abs/2412.14905)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
-- **An Empirical Study on LLM-based Agents for Automated Bug Fixing. (preprint)** [[Paper]](https://arxiv.org/abs/2411.10213)  
+- **[preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
   Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
--	**Make Your LLM Fully Utilize the Context. (NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
+-	**[NeurIPS 2024] Make Your LLM Fully Utilize the Context.** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
-- **Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks. (EMNLP 2024)** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)  
+- **[EMNLP 2024] Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks.** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Siqi Cai, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
--	**Learning From Mistakes Makes LLM Better Reasoner. (arXiv version of our EMNLP 2024 paper)** [[Paper]](https://arxiv.org/abs/2310.20689)  
-  Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
--	**Compositional API Recommendation for Library-Oriented Code Generation. (ICPC 2024)** [[Paper]](https://arxiv.org/abs/2402.19431)  
+-	**[ICPC 2024] Compositional API Recommendation for Library-Oriented Code Generation.** [[Paper]](https://arxiv.org/abs/2402.19431)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin. 
 
 # 📖 Educations
@@ -71,5 +71,6 @@ I am a fourth-year Ph.D. candidate in Peking University. My research interest is
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2023.03 - 2024.09*, GenAI Group, Microsoft, China.
+- *2024.10 - now*, Marscode Group, Bytedance, China.

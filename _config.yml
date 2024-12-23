@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zexiong Ma"
-description              : "Ph.D. Candidate in Peking University, focus on reasoning and coding of large language model. "
+description              : "focus on reasoning and coding of large language models. "
 repository               : "mizersy/mizersy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zexiong Ma"
   avatar           : "images/programmer.png"
-  bio              : 
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
