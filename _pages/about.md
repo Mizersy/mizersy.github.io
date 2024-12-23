@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zexiong Ma is a fourth-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). He received B.S degree from Tianjin University.
+Zexiong Ma is a fourth-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, He received B.S degree in Computer Science from Tianjin University in 2021.
 
 His research interest is the application of large language models in coding and reasoning tasks, including:
 - (1) coding: library-oriented code generation, retrievel-augmented code generation, and automated bug fix; 
 - (2) reasoning: mathematical reasoning and long-context reasoning.
 
+**Please feel free to email me if you're interested in my research or simply want to talk!**
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
