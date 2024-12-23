@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zexiong Ma"
   avatar           : "images/programmer.png"
-  bio              : "Peking University"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
