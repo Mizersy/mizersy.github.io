@@ -64,13 +64,13 @@ His research interest is the application of large language models in coding and 
 - *2017.09 - 2021.06*, Tianjin University, Bachelor’s Degree in Computer Science.
 
 # 🎖 Honors and Awards
-- *2018*, ACM/ICPC (International Collegiate Programming Contest), Silver Model. 
 - *2019*, Loongson Cup (National Student Computer System Design Capability Challenge), Second Prize.
+- *2018*, ACM/ICPC (International Collegiate Programming Contest), Silver Model. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.03 - 2024.09*, GenAI Group, Microsoft, China.
 - *2024.10 - now*, Marscode Group, Bytedance, China.
+- *2023.03 - 2024.09*, GenAI Group, Microsoft, China.
