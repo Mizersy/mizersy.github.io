@@ -23,7 +23,7 @@ His research interest is the application of large language models in coding and 
 - (1) coding: library-oriented code generation, retrievel-augmented code generation, and automated bug fix; 
 - (2) reasoning: mathematical reasoning and long-context reasoning.
 
-**Please feel free to [email](mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
+**Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -83,5 +83,5 @@ His research interest is the application of large language models in coding and 
 - ICLR 2025
 
 # 💻 Internships
-- *2024.10 - now*, Marscode Group, Bytedance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
+- *2024.10 - now*, Marscode Research Group, Bytedance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
 - *2023.03 - 2024.09*, GenAI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
