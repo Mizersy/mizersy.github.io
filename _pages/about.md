@@ -51,6 +51,8 @@ His research interest is the application of large language models in coding and 
 
 # 📝 Publications 
 
+- **[preprint] Repository Structure-Aware Training Makes SLMs Better Issue Resolver.** [[Paper]](http://arxiv.org/abs/2412.19031)  
+  <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin, Yanzhen Zou, Bing Xie.
 -	**[preprint] Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation.** [[Paper]](https://arxiv.org/abs/2412.14905)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
 - **[preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
