@@ -23,7 +23,7 @@ His research interest is the application of large language models in coding and 
 - (1) coding: library-oriented code generation, retrievel-augmented code generation, and automated bug fix; 
 - (2) reasoning: mathematical reasoning and long-context reasoning.
 
-**Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
+**Recently, he has been fully devoted to rule-based reinforcement learning to enhance the reasoning and coding capabilities of LLMs. Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -51,6 +51,8 @@ His research interest is the application of large language models in coding and 
 
 # 📝 Publications 
 
+- **[preprint] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** [[Paper]](https://arxiv.org/abs/2502.20127)  
+  <ins>**Zexiong Ma**</ins>, Chao Peng, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie.
 - **[preprint] Repository Structure-Aware Training Makes SLMs Better Issue Resolver.** [[Paper]](http://arxiv.org/abs/2412.19031)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Bing Xie.
 -	**[preprint] Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation.** [[Paper]](https://arxiv.org/abs/2412.14905)  
