@@ -20,8 +20,8 @@ redirect_from:
 Zexiong Ma is a fourth-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, He received B.S. degree in Computer Science from Tianjin University in 2021.
 
 His research interest is the application of large language models in coding and reasoning tasks, including:
-- (1) coding: library-oriented code generation, retrievel-augmented code generation, and automated bug fix; 
-- (2) reasoning: mathematical reasoning and long-context reasoning.
+- (1) coding: library-oriented code generation, retrievel-augmented code generation, and issue resolution; 
+- (2) reasoning: mathematical reasoning, long-context reasoning and tool-interative reasoning.
 
 **Recently, he has been fully devoted to rule-based reinforcement learning to enhance the reasoning and coding capabilities of LLMs. Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -68,7 +68,7 @@ His research interest is the application of large language models in coding and 
   <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin. 
 
 # 📖 Educations
-- *2021.09 - now*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
+- *2021.09 - 2026.06 (expected)*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
 - *2017.09 - 2021.06*, Tianjin University, B.S. Degree in Computer Science.
 
 # 🎖 Honors and Awards
@@ -87,5 +87,5 @@ His research interest is the application of large language models in coding and 
 - ICLR 2025
 
 # 💻 Internships
-- *2024.10 - now*, Marscode Research Group, Bytedance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
+- *2024.10 - now*, Marscode Research Group, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
 - *2023.03 - 2024.09*, GenAI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
