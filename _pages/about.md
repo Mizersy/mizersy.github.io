@@ -90,4 +90,4 @@ His research interest is the application of large language models in coding and 
 
 # 💻 Internships
 - *2024.10 - now*, Trae Research Group, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
-- *2023.03 - 2024.09*, GenAI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
+- *2023.03 - 2024.09*, DKI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
