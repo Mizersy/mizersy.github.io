@@ -27,8 +27,8 @@ His research interest is the application of large language models in coding and 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-- *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
+<!-- # 🔥 News
+- *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025. -->
 
 <!-- # 📝 Publications  -->
 
@@ -49,28 +49,25 @@ His research interest is the application of large language models in coding and 
 
 
 # 📝 Publications 
-## Conference
-- **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning** [[Paper]](https://arxiv.org/abs/2502.20127)  
+- **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
   <ins>**Zexiong Ma**</ins>, Chao Peng, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie.
+-	**[LCFM@ICML 2025] Enhancing Retrieval-Augmented Generation with Dehallucinating Parallel Context Extension.** [[Paper]](https://arxiv.org/abs/2412.14905)  
+  <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Jian-Guang Lou, Bing Xie.
 -	**[NeurIPS 2024] Make Your LLM Fully Utilize the Context.** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 - **[EMNLP 2024] Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks.** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)  
-  *Preprint Version:* **Learning From Mistakes Makes LLM Better Reasoner** [[Paper]](https://arxiv.org/abs/2310.20689)  
+  *Preprint Version:* **Learning From Mistakes Makes LLM Better Reasoner.** [[Paper]](https://arxiv.org/abs/2310.20689)  
   Shengnan An, <ins>**Zexiong Ma**</ins>, Siqi Cai, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 -	**[ICPC 2024] Compositional API Recommendation for Library-Oriented Code Generation.** [[Paper]](https://arxiv.org/abs/2402.19431)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin. 
-
-## Preprint
 - **[preprint] Repository Structure-Aware Training Makes SLMs Better Issue Resolver.** [[Paper]](http://arxiv.org/abs/2412.19031)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Bing Xie.
--	**[preprint] Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation.** [[Paper]](https://arxiv.org/abs/2412.14905)  
-  <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Jian-Guang Lou, Bing Xie.
 - **[preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
   Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
-- *2017.09 - 2021.06*, Tianjin University, B.S. Degree in Computer Science.
+- *2021.09 - 2026.07 (expected)*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
+- *2017.09 - 2021.07*, Tianjin University, B.S. Degree in Computer Science.
 
 # 🎖 Honors and Awards
 - *2019*, National Scholarship.
@@ -82,12 +79,8 @@ His research interest is the application of large language models in coding and 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 📌 Academic Services
-
-**Reviewer:**
-- LCFM@ICML 2024
-- ICLR 2025
-- ARR for *CL
+Reviewer for ICLR, LCFM@ICML, ACL Rolling Review
 
 # 💻 Internships
-- *2024.10 - now*, Trae Research Group, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
+- *2024.10 - now*, Trae/Marscode Research, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
 - *2023.03 - 2024.09*, DKI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
