@@ -49,7 +49,7 @@ His research interest is the application of large language models in coding and 
 
 
 # 📝 Publications 
-- **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**
+- **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**  
   Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.
 - **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
   <ins>**Zexiong Ma**</ins>, Chao Peng, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie.
