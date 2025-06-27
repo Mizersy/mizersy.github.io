@@ -65,7 +65,7 @@ His research interest is the application of large language models in coding and 
 - **[preprint] Repository Structure-Aware Training Makes SLMs Better Issue Resolver.** [[Paper]](http://arxiv.org/abs/2412.19031)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Bing Xie.
 - **[preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
-  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng
+  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng.
 
 # 📖 Educations
 - *2021.09 - 2026.07 (expected)*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
@@ -74,7 +74,7 @@ His research interest is the application of large language models in coding and 
 # 🎖 Honors and Awards
 - *2019*, National Scholarship.
 - *2019*, National Student Computer System Design Capability Challenge (**Loongson Cup**), Third Prize.
-- *2018*, International Collegiate Programming Contest (**ACM/ICPC**), Silver Model. 
+- *2018*, International Collegiate Programming Contest (**ACM/ICPC**), Silver Medal. 
 - *2015*, National Olympiad in Informatics in Provinces (**NOIP**), First Prize.
 
 <!-- # 💬 Invited Talks
@@ -84,5 +84,5 @@ His research interest is the application of large language models in coding and 
 Reviewer for ICLR, LCFM@ICML, ACL Rolling Review
 
 # 💻 Internships
-- *2024.10 - now*, Trae/Marscode Research, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
+- *2024.10 - now*, [Trae](https://www.trae.ai/)/Marscode Research, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
 - *2023.03 - 2024.09*, DKI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
