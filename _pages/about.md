@@ -51,6 +51,8 @@ His research interest is the application of large language models in coding and 
 
 
 # 📝 Publications 
+- **[preprint] Tool-integrated Reinforcement Learning for Repo Deep Search.** [[Paper]](https://arxiv.org/abs/2508.03012) [[Code]](https://github.com/Mizersy/RepoDeepSearch)  
+  <ins>**Zexiong Ma**</ins>, Chao Peng, Qunhong Zeng, Pengfei Gao, Yanzhen Zou, Bing Xie.
 - **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**  [[Paper]](https://arxiv.org/abs/2507.10906)  
   Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.
 - **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
