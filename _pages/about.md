@@ -29,8 +29,9 @@ His research interest is the application of large language models in coding and 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025. -->
+# 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Three papers are accepted by ICSE 2026.
+- *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
 
 <!-- # 📝 Publications  -->
 
@@ -51,8 +52,10 @@ His research interest is the application of large language models in coding and 
 
 
 # 📝 Publications 
-- **[preprint] Tool-integrated Reinforcement Learning for Repo Deep Search.** [[Paper]](https://arxiv.org/abs/2508.03012) [[Code]](https://github.com/Mizersy/RepoDeepSearch)  
+- **[ICSE 2026] Tool-integrated Reinforcement Learning for Repo Deep Search.** [[Paper]](https://arxiv.org/abs/2508.03012) [[Code]](https://github.com/Mizersy/RepoDeepSearch)  
   <ins>**Zexiong Ma**</ins>, Chao Peng, Qunhong Zeng, Pengfei Gao, Yanzhen Zou, Bing Xie.
+- **[ICSE 2026] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
+  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng.
 - **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**  [[Paper]](https://arxiv.org/abs/2507.10906)  
   Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.
 - **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
@@ -68,14 +71,14 @@ His research interest is the application of large language models in coding and 
   <ins>**Zexiong Ma**</ins>, Shengnan An, Bing Xie, Zeqi Lin. 
 - **[preprint] Repository Structure-Aware Training Makes SLMs Better Issue Resolver.** [[Paper]](http://arxiv.org/abs/2412.19031)  
   <ins>**Zexiong Ma**</ins>, Shengnan An, Zeqi Lin, Yanzhen Zou, Bing Xie.
-- **[preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
-  Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng.
+
 
 # 📖 Educations
 - *2021.09 - 2026.07 (expected)*, Peking University, Ph.D. in Computer Science. Adviser: Prof. Bing Xie.
 - *2017.09 - 2021.07*, Tianjin University, B.S. Degree in Computer Science.
 
 # 🎖 Honors and Awards
+- *2025*, Ubiquant Scholarship.
 - *2019*, National Scholarship.
 - *2019*, National Student Computer System Design Capability Challenge (**Loongson Cup**), Third Prize.
 - *2018*, International Collegiate Programming Contest (**ACM/ICPC**), Silver Medal. 
