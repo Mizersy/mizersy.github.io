@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zexiong Ma is a fourth-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, He received B.S. degree in Computer Science from Tianjin University in 2021.
+Zexiong Ma is a final-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, He received B.S. degree in Computer Science from Tianjin University in 2021.
 
 His research interest is the application of large language models in coding and reasoning tasks, including:
 
