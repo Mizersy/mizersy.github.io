@@ -19,7 +19,7 @@ redirect_from:
 
 Zexiong Ma is a final-year Ph.D. candidate supervised by Prof. Bing Xie in [Software Engineering Institute](https://www.sei.pku.edu.cn/), School of [Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, He received B.S. degree in Computer Science from Tianjin University in 2021.
 
-His research interest is the application of large language models in coding and reasoning tasks, including:
+His research interest is the application of large language models in coding and reasoning scenarios, including:
 
 (1) coding: coding agent, retrievel-augmented code generation; 
 
@@ -30,6 +30,7 @@ His research interest is the application of large language models in coding and 
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by SANER 2026.
 - *2025.10*: &nbsp;🎉🎉 Three papers are accepted by ICSE 2026.
 - *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
 
@@ -58,6 +59,8 @@ His research interest is the application of large language models in coding and 
   Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng.
 - **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**  [[Paper]](https://arxiv.org/abs/2507.10906)  
   Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.
+- **[SANER 2026] Progressively Mitigating API Hallucination in LLM-Generated Code via Knowledge Graph Reasoning.**
+  Yuxuan Li, <ins>**Zexiong Ma**</ins>, Yanzhen Zou, Yue Wang, Lihan Yang, Bing Xie.
 - **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
   <ins>**Zexiong Ma**</ins>, Chao Peng, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie.
 -	**[LCFM@ICML 2025] Enhancing Retrieval-Augmented Generation with Dehallucinating Parallel Context Extension.** [[Paper]](https://arxiv.org/abs/2412.14905)  
