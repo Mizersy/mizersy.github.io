@@ -30,6 +30,7 @@ His research interest is the application of large language models in coding and 
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 We release [Cue-Pro](https://www.trae.ai/blog/engineering_thought_1229).
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by SANER 2026.
 - *2025.10*: &nbsp;🎉🎉 Three papers are accepted by ICSE 2026.
 - *2025.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
@@ -95,4 +96,5 @@ Reviewer for ICLR, LCFM@ICML, ACL Rolling Review
 
 # 💻 Internships
 - *2024.10 - 2025.12*, [Trae](https://www.trae.ai/) Research, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
+  - I serve as the core contributor to [cue-Pro](https://www.trae.ai/blog/engineering_thought_1229), propose a repo search agent for next edit sequence suggestion.
 - *2023.03 - 2024.09*, DKI Group, Microsoft, China. Work with Zeqi Lin, and Shengnan An.
