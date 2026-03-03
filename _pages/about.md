@@ -30,6 +30,7 @@ His research interest is the application of large language models in coding and 
 
 
 # 🔥 News
+- *2026.3*: &nbsp;🎉🎉 One paper was selected for Distinguished Paper Award.
 - *2025.12*: &nbsp;🎉🎉 We release [Cue-Pro](https://www.trae.ai/blog/engineering_thought_1229).
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by SANER 2026.
 - *2025.10*: &nbsp;🎉🎉 Three papers are accepted by ICSE 2026.
@@ -59,7 +60,8 @@ His research interest is the application of large language models in coding and 
 - **[ICSE 2026] An Empirical Study on LLM-based Agents for Automated Bug Fixing.** [[Paper]](https://arxiv.org/abs/2411.10213)  
   Xiangxin Meng, <ins>**Zexiong Ma**</ins>, Pengfei Gao, Chao Peng.
 - **[ICSE 2026] Evaluating Generated Commit Messages with Large Language Models.**  [[Paper]](https://arxiv.org/abs/2507.10906)  
-  Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.
+  Qunhong Zeng, Yuxia Zhang, <ins>**Zexiong Ma**</ins>, Bo Jiang, Ningyuan Sun, Klaas-Jan Stol, Xingyu Mou, Hui Liu.  
+  🏆<span style="color:red;">ACM SIGSOFT Distinguished Paper Award</span>
 - **[SANER 2026] Progressively Mitigating API Hallucination in LLM-Generated Code via Knowledge Graph Reasoning.**  
   Yuxuan Li, <ins>**Zexiong Ma**</ins>, Yanzhen Zou, Yue Wang, Lihan Yang, Bing Xie.
 - **[ACL 2025] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning.** [[Paper]](https://arxiv.org/abs/2502.20127)  
