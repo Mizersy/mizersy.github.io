@@ -30,7 +30,7 @@ His research interest is the application of large language models in coding and 
 
 
 # 🔥 News
-- *2026.3*: &nbsp;🎉🎉 One paper was selected for Distinguished Paper Award.
+- *2026.3*: &nbsp;🎉🎉 One paper is selected for Distinguished Paper Award.
 - *2025.12*: &nbsp;🎉🎉 We release [Cue-Pro](https://www.trae.ai/blog/engineering_thought_1229).
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by SANER 2026.
 - *2025.10*: &nbsp;🎉🎉 Three papers are accepted by ICSE 2026.
