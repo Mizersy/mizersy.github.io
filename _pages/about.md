@@ -23,9 +23,9 @@ His research interest is the application of large language models in coding and 
 
 (1) coding: coding agent, retrievel-augmented code generation; 
 
-(2) reasoning: mathematical reasoning, long-context reasoning, tool-interative reasoning.
+(2) reasoning: agentic reasoning, mathematical reasoning, long-context reasoning.
 
-**Recently, he has been fully devoted to rule-based reinforcement learning to enhance the reasoning and coding capabilities of LLMs. Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
+**Please feel free to [email](mailto:mazexiong@stu.pku.edu.cn) him if you're interested in his research or simply want to talk!**
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -94,7 +94,7 @@ His research interest is the application of large language models in coding and 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 📌 Academic Services
-Reviewer for ICLR, LCFM@ICML, ACL Rolling Review
+Reviewer for ICLR, Neurips, LCFM@ICML, ACL Rolling Review, TOSEM.
 
 # 💻 Internships
 - *2024.10 - 2025.12*, [Trae](https://www.trae.ai/) Research, ByteDance, China. Work with Chao Peng, Pengfei Gao, and Xiangxin Meng.
